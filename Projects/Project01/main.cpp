@@ -1,4 +1,5 @@
-#include
+#include <iostream>
+#include <stdio.h>
 
 #define ROWS 6
 #define COLS 7
